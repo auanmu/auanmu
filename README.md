@@ -7,6 +7,7 @@
 <h3 align="left">Dreadcore: https://github.com/mucsci-students/2022fa-475-Dreadcore</h3>
 <h3 align="left">JailBlitz: https://github.com/mucsci-students/2022fa-475-JailBlitz</h3>
 <h3 align="left">Mixed Attack: https://github.com/mucsci-students/2022fa-475-MixedAttack</h3>
+<h3 align="left">Currently learning: Django (plan to upload django projects i've made while learning)</h3>
 <p align="left">
 </p>
 
